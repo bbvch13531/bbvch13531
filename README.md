@@ -1,5 +1,11 @@
 # bbvch13531
 
+Experences
+- Scatterlab Blimp iOS Developer 
+- Naver Whale iOS Developer
+- VoyagerX vFlat iOS Developer
+- Hyperconnect ML Team iOS Developer
+
 Conferences
 - [LetSwift 2022 TCA와 SwiftUI로 Github Search앱 만들기](https://www.slideshare.net/ssuser3d03b2/swiftui-tca-github-search)
 - [Chromium에 contribution하기](https://www.slideshare.net/ssuser3d03b2/chromium-contribution)
@@ -16,6 +22,8 @@ Articles
 - [X+Y Problem: 카드 뒤집기 문제와 증명](https://gist.github.com/bbvch13531/bf3988b41f269b5f2e39de436f4db4d8)
 
 Contributions
+
+Chromium
 - [Cleanup LayoutTests that define a function gc()](https://chromium-review.googlesource.com/c/chromium/src/+/742761)
 - [Refactor base::ThreadChecker to THREAD_CHECKER macros](https://chromium-review.googlesourc.com/c/chromium/src/+/1191342)
 - [Add build/build_config.h to using OS macro](https://chromium-review.googlesource.com/c/chromium/src/+/1278457)
