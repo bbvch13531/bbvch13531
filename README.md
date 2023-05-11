@@ -8,7 +8,10 @@
 | <img width='500px' src="https://github.com/bbvch13531/bbvch13531/assets/9498744/095e6125-423e-43d8-8f68-398f71bf7cfd" /> | <img width='500px' src="https://github.com/bbvch13531/bbvch13531/assets/9498744/eeff43c0-3d39-4fe2-975e-8cb6a8f645fe" /> |
 | [vFlat](https://www.vflat.com/?lang=en): AI Scanner App <br/> [AppStore](https://apps.apple.com/app/apple-store/id1540238220) | Metamon : Face generation App using GAN Model <br/> [Blog](https://hyperconnect.github.io/MarioNETte/) |
   
-  
+
+![](https://github-readme-stats.vercel.app/api?username=bbvch13531&show_icons=true&theme=radical)
+
+
 Experences
 
 - Scatterlab Blimp iOS Developer 
