@@ -72,7 +72,8 @@ On-device inference face generation app using MarioNETte Model.
 - VoyagerX vFlat iOS Developer
 - Hyperconnect ML Team iOS Developer
 
-## Conferences
+## Speaking
+- [저장하고 쌓이기만 하는 아티클을 잘 읽고 관리하는 시스템](https://www.youtube.com/watch?v=OfCWneKH-sg)
 - [LetSwift 2022 TCA와 SwiftUI로 Github Search앱 만들기](https://www.slideshare.net/ssuser3d03b2/swiftui-tca-github-search)
 - [Chromium에 contribution하기](https://www.slideshare.net/ssuser3d03b2/chromium-contribution)
 
