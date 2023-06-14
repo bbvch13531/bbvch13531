@@ -73,8 +73,8 @@ On-device inference face generation app using MarioNETte Model.
 - Hyperconnect ML Team iOS Developer
 
 ## Speaking
+- [Let'Swift Korea 2022: Make Github search app using Swift and TCA](https://www.slideshare.net/ssuser3d03b2/swiftui-tca-github-search)
 - [저장하고 쌓이기만 하는 아티클을 잘 읽고 관리하는 시스템](https://www.youtube.com/watch?v=OfCWneKH-sg)
-- [LetSwift 2022 TCA와 SwiftUI로 Github Search앱 만들기](https://www.slideshare.net/ssuser3d03b2/swiftui-tca-github-search)
 - [Swift for Tensorflow](https://www.slideshare.net/ssuser3d03b2/swift-for-tensorflow-159813222)
 - [Programmer's brain](https://www.slideshare.net/ssuser3d03b2/ss-255097293)
 - [LLVM UB Optimization](https://www.slideshare.net/ssuser3d03b2/llvm-ub-optimization)
