@@ -75,11 +75,10 @@ On-device inference face generation app using MarioNETte Model.
 ## Speaking
 - [저장하고 쌓이기만 하는 아티클을 잘 읽고 관리하는 시스템](https://www.youtube.com/watch?v=OfCWneKH-sg)
 - [LetSwift 2022 TCA와 SwiftUI로 Github Search앱 만들기](https://www.slideshare.net/ssuser3d03b2/swiftui-tca-github-search)
-- [Chromium에 contribution하기](https://www.slideshare.net/ssuser3d03b2/chromium-contribution)
-
-## Presentations
-- [코딩할 때 프로그래머의 뇌에서 생기는 일](https://www.slideshare.net/ssuser3d03b2/ss-255097293)
+- [Swift for Tensorflow](https://www.slideshare.net/ssuser3d03b2/swift-for-tensorflow-159813222)
+- [Programmer's brain](https://www.slideshare.net/ssuser3d03b2/ss-255097293)
 - [LLVM UB Optimization](https://www.slideshare.net/ssuser3d03b2/llvm-ub-optimization)
+- [Chromium에 contribution하기](https://www.slideshare.net/ssuser3d03b2/chromium-contribution)
 
 ## Articles
 - [Monte Carlo Simulation](https://gist.github.com/bbvch13531/e97767996381c310cee6811ae3629295)
