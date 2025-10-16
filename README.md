@@ -3,6 +3,11 @@
 | --- | --- |
 | ![github stats](https://github-readme-stats.vercel.app/api?username=bbvch13531&show_icons=true&theme=radical&count_private=true) | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbvch13531&show_icons=true&theme=radical&count_private=true&layout=compact) |
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=bbvch13531)](https://solved.ac/bbvch13531)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/bbvch13531?theme=dark&font=Noto%20Sans%20Mandaic)
+
 ## Apps
 
 <!-- |<img width='500px' src="https://github.com/bbvch13531/bbvch13531/assets/9498744/f8b17579-e1fb-4f51-aef3-dbcb8d12c82c"/> | <img width='400px' src="https://github.com/bbvch13531/bbvch13531/assets/9498744/f9edfdad-7396-4baa-861a-84c7513e2ee0" /> |
